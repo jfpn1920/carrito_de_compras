@@ -7,7 +7,7 @@ Este proyecto consiste en la simulación de un carrito de compras desarrollado e
 
 El usuario puede agregar productos al carrito, eliminarlos si lo desea y visualizar el contenido completo junto con el total a pagar. El programa funciona mediante un menú interactivo en consola, lo que permite una experiencia dinámica y continua hasta que el usuario decida salir.
 
-Cada producto se guarda como clave dentro del diccionario, mientras que su precio se almacena como valor. Esta estructura permite acceder rápidamente a los datos, modificarlos y realizar cálculos de manera eficiente.
+Cada producto se guarda como clave dentro del diccionario, mientras que su precio se almacena como valor. Esta estructura permite acceder rápidamente a los datos, modificarlos y realizar cálculos de manera eficiente. Además, facilita la gestión dinámica del carrito.
 
 #
 ### 🧑‍💻 Lenguaje de programacion
